@@ -1,0 +1,27 @@
+\\psf\home\documents\visual studio 2013\Projects\WeatherQuerySharp\WeatherQuerySharp\bin\Debug\WeatherQuerySharp.exe.config
+\\psf\home\documents\visual studio 2013\Projects\WeatherQuerySharp\WeatherQuerySharp\bin\Debug\WeatherQuerySharp.exe
+\\psf\home\documents\visual studio 2013\Projects\WeatherQuerySharp\WeatherQuerySharp\bin\Debug\WeatherQuerySharp.pdb
+\\psf\home\documents\visual studio 2013\Projects\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.WeatherForm.resources
+\\psf\home\documents\visual studio 2013\Projects\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.exe
+\\psf\home\documents\visual studio 2013\Projects\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.pdb
+\\psf\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\bin\Debug\WeatherQuerySharp.exe.config
+\\psf\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.exe
+\\psf\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.pdb
+\\psf\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\bin\Debug\WeatherQuerySharp.exe
+\\psf\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\bin\Debug\WeatherQuerySharp.pdb
+\\psf\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.WeatherForm.resources
+\\psf\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.Properties.Resources.resources
+\\psf\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.csproj.GenerateResource.Cache
+E:\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\bin\Debug\WeatherQuerySharp.exe.config
+E:\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.exe
+E:\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.pdb
+E:\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\bin\Debug\WeatherQuerySharp.exe
+E:\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\bin\Debug\WeatherQuerySharp.pdb
+E:\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.WeatherForm.resources
+E:\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.Properties.Resources.resources
+E:\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.csproj.GenerateResource.Cache
+E:\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.WeatherAbout.resources
+E:\Dropbox\Projects\NET\WeatherQuerySharp\WeatherQuerySharp\obj\Debug\WeatherQuerySharp.csprojResolveAssemblyReference.cache
